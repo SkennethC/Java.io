@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://www.univision.com/proxy/api/cached/picture?href=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Ftech.batanga.com%2Ffiles%2FFondos-para-paginas-web-06.jpg&width=0&height=0&ratio_width=1240&ratio_height=698&format=webp");
+    background-size: cover;
+}
+
+header{
+    margin-left: 40%;
+    
+}
+table{
+    float: left;
+    margin: 2px;
+    padding: 2px;
+}
+
